@@ -1,9 +1,9 @@
-package variable
+package main
 
 import "fmt"
 
 
-func Variables () {
+func main () {
 		// constant variable
 		const str string = "sahed";
 
