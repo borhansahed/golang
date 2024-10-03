@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
+// "fmt",
+
+// Entry point of go program
 func main () {
 	fmt.Print("Hello Sahed")
+
 }
