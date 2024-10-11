@@ -39,6 +39,7 @@ func (p stripe) pay (amount int) {
 
 	fmt.Println("Making payment stripe", amount)
 }
+
 func main () {
 
 	stripePayment := stripe{}
